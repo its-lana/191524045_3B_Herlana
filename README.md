@@ -32,6 +32,7 @@
     <img src="server/images/logo.jpg" alt="Logo" width="80" height="80">
   </a>
 
+
 <h3 align="center">Customer</h3>
 
   <p align="center">
@@ -78,14 +79,39 @@
 
 
 
-<!-- ABOUT THE PROJECT -->
+<!-- ABOUT THE PROJECT width="900" height="450"-->
 ## About The Project
-
+<h3 align="left">Home</h3>
 <div align="center">
 <a href="https://github.com/Soherlana/191524045_3B_Herlana">
-    <img src="images/mainmenu.png" alt="Logo" width="900" height="450">
+    <img src="images/ss1.png" alt="Logo">
 </a>
 </div>
+<h3 align="left">List Customer</h3>
+<div align="center">
+<a href="https://github.com/Soherlana/191524045_3B_Herlana">
+    <img src="images/ss2.png" alt="Logo">
+</a>
+</div>
+<h3 align="left">Search Customer</h3>
+<div align="center">
+<a href="https://github.com/Soherlana/191524045_3B_Herlana">
+    <img src="images/ss3.png" alt="Logo">
+</a>
+</div>
+<h3 align="left">Edit Customer</h3>
+<div align="center">
+<a href="https://github.com/Soherlana/191524045_3B_Herlana">
+    <img src="images/ss4.png" alt="Logo">
+</a>
+</div>
+<h3 align="left">Add Customer</h3>
+<div align="center">
+<a href="https://github.com/Soherlana/191524045_3B_Herlana">
+    <img src="images/ss5.png" alt="Logo">
+</a>
+</div>
+
 <!-- [![Product Name Screenshot][product-screenshot]](https://example.com) -->
 
 ###### Mini Project Web Development Course
@@ -133,10 +159,12 @@ This will give instructions on setting up your project locally. To get a local c
 2. Create .env file in server directory and put this
    ```sh
    DATABASE_URL=postgres://{username}:{password}@{db_host}:{db_port}/{database_name}
-    
+   ``` 
    example :
+   ```sh
     DATABASE_URL=postgres://postgres:pg123@localhost:5432/dvdrental
    ```
+   
 4. Open two terminals to the project folder, then:
     ```sh
     cd server
@@ -236,15 +264,15 @@ Project Created By:
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/3BD4-Webdev-Kelompok8/NodeJS-Postgre-Stopwatch.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/Soherlana/191524045_3B_Herlana.svg?style=for-the-badge
 [contributors-url]: https://github.com/Soherlana/191524045_3B_Herlana/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/3BD4-Webdev-Kelompok8/NodeJS-Postgre-Stopwatch.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/Soherlana/191524045_3B_Herlana.svg?style=for-the-badge
 [forks-url]: https://github.com/Soherlana/191524045_3B_Herlana/network/members
-[stars-shield]: https://img.shields.io/github/stars/3BD4-Webdev-Kelompok8/NodeJS-Postgre-Stopwatch.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/Soherlana/191524045_3B_Herlana.svg?style=for-the-badge
 [stars-url]: https://github.com/Soherlana/191524045_3B_Herlana/stargazers
-[issues-shield]: https://img.shields.io/github/issues/3BD4-Webdev-Kelompok8/NodeJS-Postgre-Stopwatch.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/Soherlana/191524045_3B_Herlana.svg?style=for-the-badge
 [issues-url]: https://github.com/Soherlana/191524045_3B_Herlana/issues
-[license-shield]: https://img.shields.io/github/license/3BD4-Webdev-Kelompok8/NodeJS-Postgre-Stopwatch.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/Soherlana/191524045_3B_Herlana.svg?style=for-the-badge
 [license-url]: https://github.com/Soherlana/191524045_3B_Herlana/blob/master/LICENSE.txt
 
 [product-screenshot]: images/screenshot.png
