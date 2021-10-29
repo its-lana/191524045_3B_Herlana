@@ -83,32 +83,32 @@
 ## About The Project
 <h3 align="left">Home</h3>
 <div align="center">
-<a href="https://github.com/Soherlana/191524045_3B_Herlana">
-    <img src="server/images/ss1.png" alt="Logo">
+<a href="https://github.com/Soherlana/191524045_3B_Herlana/tree/main/server/images">
+    <img src="server/images/ss_home.png" alt="Logo">
 </a>
 </div>
 <h3 align="left">List Customer</h3>
 <div align="center">
-<a href="https://github.com/Soherlana/191524045_3B_Herlana">
-    <img src="server/images/ss2.png" alt="Logo">
+<a href="https://github.com/Soherlana/191524045_3B_Herlana/tree/main/server/images">
+    <img src="server/images/ss_list.png" alt="Logo">
 </a>
 </div>
 <h3 align="left">Search Customer</h3>
 <div align="center">
-<a href="https://github.com/Soherlana/191524045_3B_Herlana">
-    <img src="server/images/ss3.png" alt="Logo">
+<a href="https://github.com/Soherlana/191524045_3B_Herlana/tree/main/server/images">
+    <img src="server/images/ss_search.png" alt="Logo">
 </a>
 </div>
 <h3 align="left">Edit Customer</h3>
 <div align="center">
-<a href="https://github.com/Soherlana/191524045_3B_Herlana">
-    <img src="server/images/ss4.png" alt="Logo">
+<a href="https://github.com/Soherlana/191524045_3B_Herlana/tree/main/server/images">
+    <img src="server/images/ss_edit.png" alt="Logo">
 </a>
 </div>
 <h3 align="left">Add Customer</h3>
 <div align="center">
-<a href="https://github.com/Soherlana/191524045_3B_Herlana">
-    <img src="server/images/ss5.png" alt="Logo">
+<a href="https://github.com/Soherlana/191524045_3B_Herlana/tree/main/server/images">
+    <img src="server/images/ss_add.png" alt="Logo">
 </a>
 </div>
 
