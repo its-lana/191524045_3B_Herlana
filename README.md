@@ -172,6 +172,7 @@ This will give instructions on setting up your project locally. To get a local c
    ```
    ```sh
    cd client
+   npm install vue
    npm run serve
    ```
 
